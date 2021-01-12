@@ -1,7 +1,7 @@
 {
   "name": "vaporyjs-abi",
   "namespace": "vaporyjs",
-  "version": "0.6.5",
+  "version": "0.6.6",
   "description": "Decoder and encoder for the Vapory ABI",
   "main": "index.js",
   "dependencies": {
