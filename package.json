@@ -11,8 +11,8 @@
   "devDependencies": {
     "coveralls": "^2.11.4",
     "istanbul": "^0.4.1",
-    "mocha": "^2.1.0",
-    "standard": "^5.4.1"
+    "mocha": "^10.2.0",
+    "standard": "^17.0.0"
   },
   "scripts": {
     "coverage": "istanbul cover _mocha",
